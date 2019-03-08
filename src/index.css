@@ -1,0 +1,46 @@
+body {
+  font-size: 120;
+  margin: 0;
+  padding: 0;
+  background: url("cat.jpg") no-repeat center center fixed;
+  webkit-background-size: cover;
+  moz-background-size: cover;
+  o-background-size: cover;
+  background-size: cover;
+}
+
+.input{
+  width: 300px;
+  margin: 0px auto;
+  padding: 20px;
+  border: 0px solid #BBC4DE;
+  backgroung: white;
+  border-radius: 10px 0px 10px 0px;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border: none;
+  border-radius: 5px;
+}
+
+input {
+  margin: 10px 0px 10px 0px;
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+
+input {
+  height: 30px;
+  width: 30%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
